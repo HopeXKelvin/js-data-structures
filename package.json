@@ -1,11 +1,8 @@
 {
   "name": "js-data-structures",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "基于JS实现的数据结构库  \r 提供各种常用的数据结构",
-=======
   "description": "",
->>>>>>> b46d249aefba873e37371321ff7b96571b034815
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,12 +16,8 @@
   "bugs": {
     "url": "https://github.com/HopeXKelvin/js-data-structures/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/HopeXKelvin/js-data-structures#readme"
-=======
   "homepage": "https://github.com/HopeXKelvin/js-data-structures#readme",
   "dependencies": {
     "fs": "0.0.2"
   }
->>>>>>> b46d249aefba873e37371321ff7b96571b034815
 }
